@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Khor Xiong Yean Homepage"
 title_separator          : "."
-name                     : &name "XY"
-description              : &description "i am very tall and muscular"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[taty-pain].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Xiong Yean"
+description              : &description "Hi, I'm a student studying in Chung Ling Private High School"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Screenshot 2025-09-06 085845.png"
-  name             : "XY Khor"
-  pronouns         : # example: "tall/smart"  
-  bio              : "Please sponsor me a 3d printer"
+  avatar           : "profile.png"
+  name             : "XY"
+  pronouns         : # example: "They/Them"  
+  bio              : "Please sponser me a Bambu Lab A1 mini"
   location         : "Sun"
   employer         : "Chung Ling Private High School"
   uri              : # URL
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # https://taty-pain.github.io/ - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -44,7 +44,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # taty-pain - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
