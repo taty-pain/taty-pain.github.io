@@ -19,4 +19,4 @@ My project is called VTracks, a smart navigation system designed to help blind p
 
 The project has gone through several versions, starting with Arduino Uno and later moving to ESP32 and Raspberry Pi Zero 2 W for better performance and flexibility. I worked on both hardware connections and coding, making sure the sensors can work together smoothly. The goal of VTracks is to combine engineering with real-world problem solving, offering a navigation tool that can make daily life easier for people with visual impairments while also being useful for general travelers.
 Image refercence:
-![Alt text](/images/Screenshot 2025-09-02 204523.jpg)
+![Alt text](/images/image.png)
