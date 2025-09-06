@@ -18,5 +18,6 @@ Projects
 My project is called VTracks, a smart navigation system designed to help blind people and travelers move around more safely and confidently. The idea behind VTracks is to provide real-time guidance by detecting obstacles and giving feedback through vibrations and signals. To achieve this, I integrated multiple sensors including the MPU9250 for motion tracking, the TF-Luna LiDAR for distance measurement, the HC-SR04 ultrasonic sensor for obstacle detection, and the BMP280 barometric sensor for altitude changes. The system also uses MG90S servos and a vibration strap attached to the shoe to provide physical feedback to the user.
 
 The project has gone through several versions, starting with Arduino Uno and later moving to ESP32 and Raspberry Pi Zero 2 W for better performance and flexibility. I worked on both hardware connections and coding, making sure the sensors can work together smoothly. The goal of VTracks is to combine engineering with real-world problem solving, offering a navigation tool that can make daily life easier for people with visual impairments while also being useful for general travelers.
+
 Image refercence:
 ![Alt text](/images/image.png)
